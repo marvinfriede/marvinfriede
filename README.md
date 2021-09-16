@@ -7,5 +7,5 @@
 <br>
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinfriede&show_icons=true&hide=stars&hide_border=true&count_private=true" alt="marvinfriede github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinfriede&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=6" /> |
+| <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api?username=marvinfriede&show_icons=true&hide=stars&hide_border=true&count_private=true" alt="marvinfriede github stats" /> | <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api/top-langs/?username=marvinfriede&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=6" /> |
 | ------------- | ------------- |
