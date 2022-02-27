@@ -5,7 +5,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api?username=marvinfriede&show_icons=true&hide_border=true&count_private=true&theme=darcula" alt="marvinfriede github stats" /> | <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api/top-langs/?username=marvinfriede&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=8&count_private=true&theme=darcula" /> |
+| <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api?username=marvinfriede&show_icons=true&hide_border=true&count_private=true&theme=darcula&hide=stars" alt="marvinfriede github stats" /> | <img align="center" src="https://github-readme-stats-marvinfriede.vercel.app/api/top-langs/?username=marvinfriede&layout=compact&hide_border=true&hide=jupyter%20notebook,tex&langs_count=6&count_private=true&theme=darcula" /> |
 | ------------- | ------------- |
 
 <br>
