@@ -1,7 +1,8 @@
 ## Hi there, I'm Marvin Friede. 👋
 
-- :test_tube: Studying Chemistry with focus on Quantum Chemistry
-- :spider_web: Doing some Web Development
+- :test_tube: Developing Semi-empirical Quantum Chemistry Methods for Machine Learning in PyTorch
+- :coin: Developing Highly Accurate Quantum Monte Carlo Methods in C++ and CUDA
+- :spider_web: Some Web Development Experience
 
 <br>
 
